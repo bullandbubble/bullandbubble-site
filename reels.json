@@ -1,5 +1,11 @@
 [
   {
+    "title": "The champagne tower that broke Wall Street",
+    "series": "Crash Files #1",
+    "cover": "assets/cover-cdo.jpg",
+    "url": "https://www.instagram.com/reel/DeJKtr-OqvQ/"
+  },
+  {
     "title": "Even Newton got burned",
     "series": "Money History #1",
     "cover": "assets/cover-newton.jpg",
@@ -15,12 +21,6 @@
     "title": "The APR trap",
     "series": "Decoded #1",
     "cover": "assets/cover-apr.jpg",
-    "url": "https://www.instagram.com/bullandbubble/"
-  },
-  {
-    "title": "The champagne tower that broke Wall Street",
-    "series": "Crash Files #1",
-    "cover": "assets/cover-cdo.jpg",
     "url": "https://www.instagram.com/bullandbubble/"
   }
 ]
