@@ -1,5 +1,17 @@
 [
   {
+    "title": "Only one of them pops",
+    "series": "Decoded #2",
+    "cover": "assets/cover-bull-bear.jpg",
+    "url": "https://www.instagram.com/reel/DeQVAgMI8XU/"
+  },
+  {
+    "title": "The APR trap",
+    "series": "Decoded #1",
+    "cover": "assets/cover-apr.jpg",
+    "url": "https://www.instagram.com/reel/DeQRDLYI5wk/"
+  },
+  {
     "title": "The champagne tower that broke Wall Street",
     "series": "Crash Files #1",
     "cover": "assets/cover-cdo.jpg",
@@ -15,12 +27,6 @@
     "title": "Most money isn't printed",
     "series": "How Money Works #1",
     "cover": "assets/cover-banks.jpg",
-    "url": "https://www.instagram.com/bullandbubble/"
-  },
-  {
-    "title": "The APR trap",
-    "series": "Decoded #1",
-    "cover": "assets/cover-apr.jpg",
     "url": "https://www.instagram.com/bullandbubble/"
   }
 ]
